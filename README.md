@@ -7,17 +7,17 @@
 ## 🚀 Table of Contents
 
 - [**Getting Started**](#getting-started)
-- [**Chapters**](#chapters)
-  - [Chapter 1: Introduction to Python](#chapter-1-introduction-to-python)
+- **Chapters**
+  - Chapter 1: Introduction to Python
     - [1.1 example header](guide/001/README.md)
     - [1.2 example header](#chapter-1-introduction-to-python)
-  - [Chapter 2: Python Variables and Data Types](#chapter-2-python-variables-and-data-types)
+  - Chapter 2: Python Variables and Data Types
     - [2.1 example header](#chapter-1-introduction-to-python)
     - [2.2 example header](#chapter-1-introduction-to-python)
-  - [Chapter 3: Control Flow (If, Else, Loops)](#chapter-3-control-flow)
-  - [Chapter 4: Functions in Python](#chapter-4-functions-in-python)
-  - [Chapter 5: Object-Oriented Programming](#chapter-5-object-oriented-programming)
-  - [Chapter 6: Python Libraries and Modules](#chapter-6-python-libraries-and-modules)
+  - Chapter 3: Control Flow (If, Else, Loops)
+  - Chapter 4: Functions in Python
+  - Chapter 5: Object-Oriented Programming
+  - Chapter 6: Python Libraries and Modules
 
 ## 🛠️ How to Use the Tutorials
 
